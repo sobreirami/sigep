@@ -1,0 +1,21 @@
+{
+  "name": "sigep/sigep-php",
+  "description": "Integração com Web Service dos Correios.",
+  "keywords": ["sigep", "sigep-php"],
+  "license": "MIT",
+  "homepage": "http://sigep-php.github.io",
+  "support": {
+    "issues": "https://github.com/laravel/framework/issues",
+    "source": "https://github.com/laravel/framework"
+  },
+  "authors": [
+    {
+      "name": "Michel Sobreira",
+      "email": "sobreira.michel@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "minimum-stability": "dev"
+}
